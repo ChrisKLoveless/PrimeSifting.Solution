@@ -1,0 +1,15 @@
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.csproj.AssemblyReference.cache
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.AssemblyInfoInputs.cache
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.AssemblyInfo.cs
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.csproj.CoreCompileInputs.cache
+/Users/student/Desktop/primeSifting/Prime/bin/Debug/net6.0/Prime
+/Users/student/Desktop/primeSifting/Prime/bin/Debug/net6.0/Prime.deps.json
+/Users/student/Desktop/primeSifting/Prime/bin/Debug/net6.0/Prime.runtimeconfig.json
+/Users/student/Desktop/primeSifting/Prime/bin/Debug/net6.0/Prime.dll
+/Users/student/Desktop/primeSifting/Prime/bin/Debug/net6.0/Prime.pdb
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.dll
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/refint/Prime.dll
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.pdb
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/Prime.genruntimeconfig.cache
+/Users/student/Desktop/primeSifting/Prime/obj/Debug/net6.0/ref/Prime.dll
