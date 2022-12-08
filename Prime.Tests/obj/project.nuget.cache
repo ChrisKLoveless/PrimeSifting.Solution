@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCFdnfPxggOuFNrBuj5uSGC53lKoDOY59/Yt/Dat6EedfbrxY3BEO/pic0ptilD6U/UDOCTrXwsacNfvZlD7cw==",
+  "dgSpecHash": "HXaEPf3cOxB7YS2IUcX9VDBQMgdw/k9PPAfWp1EhK2pJtger+WwgNXAAIZuHJjsA7qHziUrNTbbq6DGDOZgS0A==",
   "success": true,
-  "projectFilePath": "/Users/student/Desktop/primeSifting/Prime.Tests/Prime.Tests.csproj",
+  "projectFilePath": "/Users/student/Desktop/PrimeSifting.Solution/Prime.Tests/Prime.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",

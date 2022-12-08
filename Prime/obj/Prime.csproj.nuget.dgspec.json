@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/student/Desktop/primeSifting/Prime/Prime.csproj": {}
+    "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj": {}
   },
   "projects": {
-    "/Users/student/Desktop/primeSifting/Prime/Prime.csproj": {
+    "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/student/Desktop/primeSifting/Prime/Prime.csproj",
+        "projectUniqueName": "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj",
         "projectName": "Prime",
-        "projectPath": "/Users/student/Desktop/primeSifting/Prime/Prime.csproj",
+        "projectPath": "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj",
         "packagesPath": "/Users/student/.nuget/packages/",
-        "outputPath": "/Users/student/Desktop/primeSifting/Prime/obj/",
+        "outputPath": "/Users/student/Desktop/PrimeSifting.Solution/Prime/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/student/.nuget/NuGet/NuGet.Config"

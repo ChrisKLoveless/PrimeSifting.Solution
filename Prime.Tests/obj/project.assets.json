@@ -6735,11 +6735,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Desktop/primeSifting/Prime.Tests/Prime.Tests.csproj",
+      "projectUniqueName": "/Users/student/Desktop/PrimeSifting.Solution/Prime.Tests/Prime.Tests.csproj",
       "projectName": "Prime.Tests",
-      "projectPath": "/Users/student/Desktop/primeSifting/Prime.Tests/Prime.Tests.csproj",
+      "projectPath": "/Users/student/Desktop/PrimeSifting.Solution/Prime.Tests/Prime.Tests.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Desktop/primeSifting/Prime.Tests/obj/",
+      "outputPath": "/Users/student/Desktop/PrimeSifting.Solution/Prime.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/student/.nuget/NuGet/NuGet.Config"
@@ -6754,8 +6754,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/student/Desktop/primeSifting/Prime/Prime.csproj": {
-              "projectPath": "/Users/student/Desktop/primeSifting/Prime/Prime.csproj"
+            "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj": {
+              "projectPath": "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "At+1rIR4e2paNdoPCGqFaLaVDkffmrcNom5FQXdG0K46l56Yw87YeDo8tOjVo6QdG158vBRfAUdo9eh0TxfOkg==",
+  "dgSpecHash": "mPVcR2+B/SEh/lhjacomHjJZ+yap8sGSlVenO1fgP577Fck92AeYPoTY7tTh729C+C7y5Vmb16pFal7eChMuRw==",
   "success": true,
-  "projectFilePath": "/Users/student/Desktop/primeSifting/Prime/Prime.csproj",
+  "projectFilePath": "/Users/student/Desktop/PrimeSifting.Solution/Prime/Prime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
